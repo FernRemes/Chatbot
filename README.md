@@ -14,4 +14,6 @@ Inbuilt chatbots on webpages offer several benefits and innovative features, mak
     4. Guided Navigation:
         -Chatbots can help users find specific information or products on the website quickly, enhancing their navigation and reducing frustration.
 
+# Result
 
+![Screenshot 2024-07-21 170740](https://github.com/user-attachments/assets/8abc5d3b-24b6-48d7-9933-d4c82f9cf153)
